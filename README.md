@@ -20,13 +20,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Setup Domain Controller VM in Azure
-- Setup Client-1 VM in Azure
-- Install Active Directory
-- Create a Domain Admin user within the domain
-- Join Client-1 to your domain (mydomain.com)
-- Setup Remote Desktop for non-administrative users on Client-1
-- Create a bunch of additional users and attempt to log into client-1 with one of the users
+- 1) Setup Domain Controller VM in Azure
+- 2) Setup Client-1 VM in Azure
+- 3) Install Active Directory
+- 4) Create a Domain Admin user within the domain
+- 5) Join Client-1 to your domain (mydomain.com)
+- 6) Setup Remote Desktop for non-administrative users on Client-1
+- 7) Create a bunch of additional users and attempt to log into client-1 with one of the users
 
 <h2>Deployment and Configuration Steps</h2>
 
